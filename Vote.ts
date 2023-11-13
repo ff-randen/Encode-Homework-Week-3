@@ -1,4 +1,4 @@
-import { ethers } from "hardhat";
+import { ethers } from "ethers";
 import { TokenizedBallot, TokenizedBallot__factory } from "../typechain-types";
 import "dotenv/config";
 require("dotenv").config();
